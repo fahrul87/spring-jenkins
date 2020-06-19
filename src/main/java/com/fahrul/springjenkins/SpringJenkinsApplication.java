@@ -23,7 +23,7 @@ public class SpringJenkinsApplication {
 	
 	@GetMapping("/")
 	public String ping() {
-		return "Istimiwir Kiwir Kiwir";
+		return "Istimiwir Kiwir Kiwir Wong";
 	}
 
 	public static void main(String[] args) {
